@@ -6,4 +6,4 @@ b = 10
 c = a*b
 print("The total amount of calculation is" , c )
 
-prit("bimbi")
+prit("Iloveyoujaana")
